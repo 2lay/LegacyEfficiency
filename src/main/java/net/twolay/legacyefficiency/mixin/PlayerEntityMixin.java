@@ -30,6 +30,8 @@ public abstract class PlayerEntityMixin extends LivingEntity {
      * @author 2lay, uperehostile
      * @reason overrides block breaking speeds
      */
+
+
     @Overwrite
     public float getBlockBreakingSpeed(BlockState block) {
         float speed = this.inventory.getBlockBreakingSpeed(block);
