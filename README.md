@@ -10,6 +10,7 @@
 
 </div>
 
+## **❓** Information
 **LegacyEfficiency** is a Minecraft mod originally developed by *superehostile* and ported to newer versions. This mod reintroduces the old block-breaking speeds from previous versions of the game.
 
 ## **💕 Credits**
