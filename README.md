@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/2lay/LegacyEfficiency"><img src=https://github.com/2lay/LegacyEfficiency/blob/main/logo.png?raw=true" alt="Preview" width=200></a>
+    <a href="https://github.com/2lay/LegacyEfficiency"><img src=https://github.com/2lay/LegacyEfficiency/blob/main/icon.png?raw=true" alt="Logo" width=200></a>
     <p>LegacyEfficiency</p>
 </h1>
 
@@ -10,9 +10,7 @@
 
 </div>
 
-**LegacyEfficiency** is a port of Old Efficiency by *superehostile* to modern versions of Minecraft.
-
-This is a mod that brings back the old block-breaking speed from older Minecraft versions, affecting all block types.
+**LegacyEfficiency** is a Minecraft mod originally developed by *superehostile* and ported to newer versions. This mod reintroduces the old block-breaking speeds from previous versions of the game.
 
 ## **💕 Credits**
 - [superehostile](https://legacy.curseforge.com/members/superehostile) for the original [mod](https://legacy.curseforge.com/minecraft/mc-mods/old-efficiency-fabric)
